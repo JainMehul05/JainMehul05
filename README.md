@@ -1,98 +1,70 @@
-<!-- ========================================================= -->
-
-<!--                       HERO SECTION                        -->
-
-<!-- ========================================================= -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:0F172A,70:0369A1,100:7C3AED&height=230&section=header&text=MEHUL%20JAIN&fontSize=54&fontColor=FFFFFF&fontAlignY=38&desc=Computer%20Engineering%20%7C%20Full%20Stack%20%7C%20Cloud%20%26%20DevOps%20%7C%20AI&descAlignY=60&descSize=16&animation=fadeIn" width="100%" alt="Mehul Jain Header"/>
+# ⚡ MEHUL JAIN
+
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=1100&color=38BDF8&center=true&vCenter=true&width=850&height=55&lines=Full+Stack+Developer;Backend+Systems+Builder;Cloud+%26+DevOps+Enthusiast;AWS+%7C+Docker+%7C+CI%2FCD;GenAI+Explorer;Agentic+AI+Explorer;Building+%E2%86%92+Deploying+%E2%86%92+Scaling" alt="Typing SVG"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=2800&pause=1100&color=38BDF8&center=true&vCenter=true&repeat=true&width=850&height=55&lines=Full+Stack+Developer;Backend+Systems+Builder;Cloud+%26+DevOps+Enthusiast;AWS+%7C+Docker+%7C+CI%2FCD;GenAI+Explorer;Agentic+AI+Explorer;Building+%E2%86%92+Deploying+%E2%86%92+Scaling" alt="Typing Animation"/>
+**Computer Engineering Student · Full Stack · Cloud & DevOps · GenAI**
 
 <br>
 
-<p>
-  <b>Building applications.</b>
-  &nbsp;•&nbsp;
-  <b>Understanding systems.</b>
-  &nbsp;•&nbsp;
-  <b>Learning to scale them.</b>
-</p>
-
-<br>
-
-<a href="https://github.com/JainMehul05">
-<img src="https://img.shields.io/badge/GITHUB-JainMehul05-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
+<img src="https://img.shields.io/badge/GitHub-JainMehul05-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 &nbsp;
-<a href="https://linkedin.com/in/jainmehul05">
-<img src="https://img.shields.io/badge/LINKEDIN-Mehul%20Jain-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
+<img src="https://img.shields.io/badge/LinkedIn-Mehul%20Jain-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 &nbsp;
-<a href="mailto:mjain3_be24@thapar.edu">
-<img src="https://img.shields.io/badge/EMAIL-Contact%20Me-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
+<img src="https://img.shields.io/badge/Email-Contact%20Me-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0F172A&height=3&section=header" width="65%" alt="Divider"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=15&duration=3500&pause=1200&color=94A3B8&center=true&vCenter=true&width=750&height=35&lines=Building+applications.;Understanding+systems.;Learning+to+scale+them." alt="Developer Motto"/>
 
 </div>
 
 ---
 
-<!-- ========================================================= -->
+<div align="center">
 
-<!--                       ABOUT ME                            -->
+## `01` — ABOUT ME
 
-<!-- ========================================================= -->
-
-<h2 align="center">◈ ABOUT ME</h2>
+</div>
 
 <table>
 <tr>
-<td width="58%" valign="top">
+<td width="60%" valign="top">
 
-### 👋 Hello, I'm Mehul
+### 👋 Hey, I'm Mehul
 
-I'm a **Computer Engineering student** focused on becoming a strong software engineer through hands-on development, system understanding, and continuous learning.
+I'm a **Computer Engineering student** focused on becoming a strong software engineer through hands-on development and continuous learning.
 
-My current direction sits at the intersection of:
+I build **full-stack applications**, work with **backend systems and APIs**, explore **AWS and cloud architecture**, and use **Docker and CI/CD** to understand the journey from development to deployment.
 
-**Full Stack Development → Backend → Cloud → DevOps → GenAI → Agentic AI**
+I'm also exploring **Generative AI and Agentic AI**, including RAG, embeddings, vector search, grounding, and AI-agent workflows.
 
-I enjoy building software end-to-end — from interfaces and APIs to databases, authentication, containers, cloud infrastructure, deployment, and AI-powered functionality.
-
-I'm especially interested in understanding **what happens behind the code** and how individual components come together to form reliable software systems.
+Alongside development, I'm strengthening **DSA, System Design, security, and my understanding of how software systems work internally**.
 
 </td>
 
-<td width="42%" valign="top">
+<td width="40%" valign="top">
 
-### `CURRENT FOCUS`
+### `CURRENT PATH`
 
 ```text
-┌─────────────────────────┐
-│                         │
-│     FULL STACK          │
-│         ↓               │
-│     BACKEND             │
-│         ↓               │
-│     CLOUD               │
-│         ↓               │
-│     DEVOPS              │
-│         ↓               │
-│     GENAI               │
-│         ↓               │
-│     AGENTIC AI          │
-│                         │
-└─────────────────────────┘
+FULL STACK
+    ↓
+BACKEND
+    ↓
+CLOUD
+    ↓
+DEVOPS
+    ↓
+GENAI
+    ↓
+AGENTIC AI
 ```
 
-**Engineering Goal**
+### `GOAL`
 
 `BUILD → DEPLOY → SECURE → SCALE`
 
@@ -102,46 +74,73 @@ I'm especially interested in understanding **what happens behind the code** and 
 
 ---
 
-<!-- ========================================================= -->
-
-<!--                  CURRENTLY BUILDING                       -->
-
-<!-- ========================================================= -->
-
-<h2 align="center">◈ CURRENTLY BUILDING</h2>
-
 <div align="center">
 
-|   ⚡  | Area                        | Focus                                                                   |
-| :--: | --------------------------- | ----------------------------------------------------------------------- |
-| `01` | **Full Stack Applications** | Complete applications across frontend, backend, database and deployment |
-| `02` | **Backend Systems**         | APIs, authentication, validation, security and server-side architecture |
-| `03` | **Cloud Deployments**       | AWS-based application deployment and cloud architecture                 |
-| `04` | **AI Applications**         | Practical Generative AI integrations                                    |
-| `05` | **Agentic AI**              | Agents, RAG, vector search and grounding                                |
-| `06` | **DevOps Workflows**        | Docker, CI/CD, GitHub Actions and Linux                                 |
+## `02` — CURRENTLY BUILDING
+
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=17&duration=2600&pause=900&color=7C3AED&center=true&vCenter=true&width=850&height=40&lines=Full+Stack+Applications;Cloud+Deployments;Backend+Systems;AI-Powered+Applications;DevOps+Workflows" alt="Currently Building"/>
 
 </div>
 
-<br>
+<table>
+<tr>
+<td align="center" width="20%">
 
-<div align="center">
+### `01`
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3500&pause=1200&color=7C3AED&center=true&vCenter=true&repeat=true&width=800&height=40&lines=Turning+ideas+into+working+systems;From+local+development+to+cloud+deployment;Learning+the+engineering+behind+production+software" alt="Building Animation"/>
+**FULL STACK**
 
-</div>
+Frontend + Backend + Database
+
+</td>
+
+<td align="center" width="20%">
+
+### `02`
+
+**BACKEND**
+
+APIs + Auth + Systems
+
+</td>
+
+<td align="center" width="20%">
+
+### `03`
+
+**CLOUD**
+
+AWS + Deployment
+
+</td>
+
+<td align="center" width="20%">
+
+### `04`
+
+**AI**
+
+GenAI + RAG + Agents
+
+</td>
+
+<td align="center" width="20%">
+
+### `05`
+
+**DEVOPS**
+
+Docker + CI/CD
+
+</td>
+</tr>
+</table>
 
 ---
 
-<!-- ========================================================= -->
-
-<!--                  CURRENTLY LEARNING                       -->
-
-<!-- ========================================================= -->
-
-<h2 align="center">◈ CURRENTLY LEARNING</h2>
-
 <div align="center">
+
+## `03` — CURRENTLY LEARNING
 
 <img src="https://img.shields.io/badge/AWS-Cloud%20Architecture-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-Containerization-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
@@ -152,78 +151,66 @@ I'm especially interested in understanding **what happens behind the code** and 
 <img src="https://img.shields.io/badge/Generative%20AI-Exploring-8B5CF6?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Agentic%20AI-Exploring-A855F7?style=for-the-badge"/>
 
-</div>
-
-<br>
+<br><br>
 
 > **I don't want to collect technologies. I want to understand how they fit together.**
 
+</div>
+
 ---
-
-<!-- ========================================================= -->
-
-<!--                       WHAT I BUILD                        -->
-
-<!-- ========================================================= -->
-
-<h2 align="center">◈ WHAT I BUILD</h2>
 
 <div align="center">
 
+## `04` — WHAT I BUILD
+
 ```text
-                         ┌─────────────────┐
-                         │      USER       │
-                         └────────┬────────┘
-                                  │
-                                  ▼
-                    ┌─────────────────────────┐
-                    │        FRONTEND        │
-                    │ React • Next • Vite     │
-                    └────────────┬────────────┘
-                                 │
-                                 ▼
-                    ┌─────────────────────────┐
-                    │         BACKEND         │
-                    │ Node • Express • APIs   │
-                    └────────────┬────────────┘
-                                 │
-                    ┌────────────┴────────────┐
-                    │                         │
-                    ▼                         ▼
-          ┌──────────────────┐      ┌──────────────────┐
-          │    DATABASE      │      │       AI         │
-          │ SQL • NoSQL      │      │ RAG • Agents     │
-          │ Redis • Vector   │      │ Embeddings       │
-          └────────┬─────────┘      └────────┬─────────┘
-                   │                         │
-                   └────────────┬────────────┘
-                                ▼
-                    ┌─────────────────────────┐
-                    │      CLOUD / DEVOPS     │
-                    │ AWS • Docker • CI/CD     │
-                    └─────────────────────────┘
+                         ┌──────────────┐
+                         │     USER     │
+                         └──────┬───────┘
+                                ↓
+                     ┌────────────────────┐
+                     │     FRONTEND      │
+                     │ React • Next • Vite│
+                     └─────────┬──────────┘
+                               ↓
+                     ┌────────────────────┐
+                     │      BACKEND      │
+                     │ Node • APIs • Auth │
+                     └─────────┬──────────┘
+                               ↓
+              ┌────────────────┴────────────────┐
+              ↓                                 ↓
+       ┌──────────────┐                  ┌──────────────┐
+       │   DATABASE   │                  │      AI      │
+       │ SQL • NoSQL  │                  │ RAG • Agents │
+       │ Redis • Vector│                 │ Embeddings   │
+       └───────┬──────┘                  └──────┬───────┘
+               └────────────────┬────────────────┘
+                                ↓
+                     ┌────────────────────┐
+                     │   CLOUD / DEVOPS  │
+                     │ AWS • Docker • CI/CD│
+                     └────────────────────┘
 ```
 
 </div>
 
 ---
 
-<!-- ========================================================= -->
+<div align="center">
 
-<!--                    TECHNOLOGY STACK                       -->
+## `05` — TECHNOLOGY STACK
 
-<!-- ========================================================= -->
-
-<h2 align="center">◈ TECHNOLOGY STACK</h2>
+</div>
 
 <details open>
-<summary><b>⌘ Programming Languages</b></summary>
+<summary><b>⌘ Languages</b></summary>
 
 <br>
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,html,css,mysql" alt="Languages"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,html,css" alt="Languages"/>
 
 <br><br>
 
@@ -273,14 +260,13 @@ I'm especially interested in understanding **what happens behind the code** and 
 <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
 <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
 <img src="https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white"/>
-<img src="https://img.shields.io/badge/Nodemon-76D04B?style=for-the-badge&logo=nodemon&logoColor=white"/>
 
 </div>
 
 </details>
 
 <details open>
-<summary><b>◉ Databases & Data</b></summary>
+<summary><b>◉ Databases</b></summary>
 
 <br>
 
@@ -312,7 +298,7 @@ I'm especially interested in understanding **what happens behind the code** and 
 
 <img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"/>
 <img src="https://img.shields.io/badge/ECS-FF9900?style=for-the-badge&logo=amazonecs&logoColor=white"/>
-<img src="https://img.shields.io/badge/ECS%20Fargate-FF9900?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Fargate-FF9900?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/>
 <img src="https://img.shields.io/badge/RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white"/>
 <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white"/>
@@ -322,7 +308,7 @@ I'm especially interested in understanding **what happens behind the code** and 
 <img src="https://img.shields.io/badge/Cognito-DD344C?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/WAF-DD344C?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Secrets%20Manager-DD344C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Application%20Load%20Balancer-FF9900?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ALB-FF9900?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Bedrock-FF9900?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/CloudWatch-FF9900?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/X--Ray-FF9900?style=for-the-badge"/>
@@ -354,7 +340,7 @@ I'm especially interested in understanding **what happens behind the code** and 
 </details>
 
 <details open>
-<summary><b>◉ Generative AI & Agentic AI</b></summary>
+<summary><b>◉ GenAI & Agentic AI</b></summary>
 
 <br>
 
@@ -367,22 +353,22 @@ I'm especially interested in understanding **what happens behind the code** and 
 <img src="https://img.shields.io/badge/Claude-D97706?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Bedrock%20Guardrails-FF9900?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Titan%20Embeddings-FF9900?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Embeddings-38BDF8?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/RAG-0EA5E9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Embeddings-38BDF8?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Vector%20Search-7C3AED?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Hybrid%20Search-A855F7?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/pgvector-336791?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Prompt%20Engineering-0EA5E9?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Prompt%20Injection%20Defense-DC2626?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AI%20Intent%20Compilation-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Intent%20Compilation-7C3AED?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Constraint%20DSL-A855F7?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Merchant%20%2F%20Product%20Grounding-0EA5E9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Product%20Grounding-0EA5E9?style=for-the-badge"/>
 
 </div>
 
 </details>
 
-<details open>
+<details>
 <summary><b>◉ Security</b></summary>
 
 <br>
@@ -392,21 +378,20 @@ I'm especially interested in understanding **what happens behind the code** and 
 <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
 <img src="https://img.shields.io/badge/Authentication-38BDF8?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Authorization-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AWS%20IAM-DD344C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AWS%20Cognito-DD344C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AWS%20KMS-DD344C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/IAM-DD344C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Cognito-DD344C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/KMS-DD344C?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/JWS-0F172A?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/ES256-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Cryptographic%20Signatures-334155?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Capability%20Tokens-0EA5E9?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Zero%20Trust-334155?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Capability%20Tokens-0EA5E9?style=for-the-badge"/>
 
 </div>
 
 </details>
 
 <details>
-<summary><b>◉ Testing & Engineering Tools</b></summary>
+<summary><b>◉ Testing & Tools</b></summary>
 
 <br>
 
@@ -432,74 +417,25 @@ I'm especially interested in understanding **what happens behind the code** and 
 
 ---
 
-<!-- ========================================================= -->
-
-<!--                   DEVELOPMENT JOURNEY                     -->
-
-<!-- ========================================================= -->
-
-<h2 align="center">◈ DEVELOPMENT JOURNEY</h2>
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2600&pause=1000&color=38BDF8&center=true&vCenter=true&repeat=true&width=900&height=45&lines=C+%2F+C%2B%2B+%E2%86%92+Programming+%26+DSA;Web+Development+%E2%86%92+Full+Stack;Full+Stack+%E2%86%92+Backend;Backend+%E2%86%92+Docker+%26+DevOps;DevOps+%E2%86%92+AWS+%26+Cloud;Cloud+%E2%86%92+GenAI;GenAI+%E2%86%92+Agentic+AI" alt="Development Journey"/>
+## `06` — DEVELOPMENT JOURNEY
+
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=19&duration=2500&pause=900&color=38BDF8&center=true&vCenter=true&width=900&height=45&lines=C+%2F+C%2B%2B+%E2%86%92+DSA;Web+Development+%E2%86%92+Full+Stack;Full+Stack+%E2%86%92+Backend;Backend+%E2%86%92+Docker+%26+DevOps;DevOps+%E2%86%92+AWS+%26+Cloud;Cloud+%E2%86%92+GenAI;GenAI+%E2%86%92+Agentic+AI" alt="Development Journey"/>
 
 <br><br>
 
-```text
-┌────────────┐
-│  C / C++   │
-└─────┬──────┘
-      ↓
-┌────────────┐
-│    DSA     │
-└─────┬──────┘
-      ↓
-┌────────────┐
-│ Web Dev    │
-└─────┬──────┘
-      ↓
-┌────────────┐
-│ Full Stack │
-└─────┬──────┘
-      ↓
-┌────────────┐
-│  Backend   │
-└─────┬──────┘
-      ↓
-┌────────────┐
-│ Docker     │
-│ DevOps     │
-└─────┬──────┘
-      ↓
-┌────────────┐
-│ AWS / Cloud│
-└─────┬──────┘
-      ↓
-┌────────────┐
-│   GenAI    │
-└─────┬──────┘
-      ↓
-┌────────────┐
-│ Agentic AI │
-└────────────┘
-```
+`C/C++` → `DSA` → `Web` → `Full Stack` → `Backend` → `DevOps` → `AWS` → `GenAI` → `Agentic AI`
 
 </div>
 
 ---
 
-<!-- ========================================================= -->
+<div align="center">
 
-<!--                    FEATURED PROJECTS                       -->
+## `07` — FEATURED PROJECTS
 
-<!-- ========================================================= -->
-
-<h2 align="center">◈ FEATURED PROJECTS</h2>
-
-<p align="center">
-  <i>Projects will be added here as the portfolio evolves.</i>
-</p>
+</div>
 
 <table>
 <tr>
@@ -512,7 +448,7 @@ I'm especially interested in understanding **what happens behind the code** and 
 
 `PROJECT_DESCRIPTION`
 
-**Problem**
+**Problem Solved**
 
 `PROBLEM_SOLVED`
 
@@ -520,11 +456,7 @@ I'm especially interested in understanding **what happens behind the code** and 
 
 `TECHNOLOGIES_USED`
 
-**Links**
-
-[GitHub](GITHUB_LINK)
-
-[Live Demo](LIVE_DEMO)
+[GitHub](GITHUB_LINK) · [Live Demo](LIVE_DEMO)
 
 </td>
 
@@ -536,7 +468,7 @@ I'm especially interested in understanding **what happens behind the code** and 
 
 `PROJECT_DESCRIPTION`
 
-**Problem**
+**Problem Solved**
 
 `PROBLEM_SOLVED`
 
@@ -544,11 +476,7 @@ I'm especially interested in understanding **what happens behind the code** and 
 
 `TECHNOLOGIES_USED`
 
-**Links**
-
-[GitHub](GITHUB_LINK)
-
-[Live Demo](LIVE_DEMO)
+[GitHub](GITHUB_LINK) · [Live Demo](LIVE_DEMO)
 
 </td>
 
@@ -564,7 +492,7 @@ I'm especially interested in understanding **what happens behind the code** and 
 
 `PROJECT_DESCRIPTION`
 
-**Problem**
+**Problem Solved**
 
 `PROBLEM_SOLVED`
 
@@ -572,11 +500,7 @@ I'm especially interested in understanding **what happens behind the code** and 
 
 `TECHNOLOGIES_USED`
 
-**Links**
-
-[GitHub](GITHUB_LINK)
-
-[Live Demo](LIVE_DEMO)
+[GitHub](GITHUB_LINK) · [Live Demo](LIVE_DEMO)
 
 </td>
 
@@ -588,7 +512,7 @@ I'm especially interested in understanding **what happens behind the code** and 
 
 `PROJECT_DESCRIPTION`
 
-**Problem**
+**Problem Solved**
 
 `PROBLEM_SOLVED`
 
@@ -596,11 +520,7 @@ I'm especially interested in understanding **what happens behind the code** and 
 
 `TECHNOLOGIES_USED`
 
-**Links**
-
-[GitHub](GITHUB_LINK)
-
-[Live Demo](LIVE_DEMO)
+[GitHub](GITHUB_LINK) · [Live Demo](LIVE_DEMO)
 
 </td>
 
@@ -609,49 +529,9 @@ I'm especially interested in understanding **what happens behind the code** and 
 
 ---
 
-<!-- ========================================================= -->
-
-<!--                    ENGINEERING MINDSET                    -->
-
-<!-- ========================================================= -->
-
-<h2 align="center">◈ ENGINEERING MINDSET</h2>
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=1300&color=8B5CF6&center=true&vCenter=true&repeat=true&width=850&height=45&lines=I+don't+just+want+to+write+code.;I+want+to+understand+the+system+behind+it.;Code+%E2%86%92+Architecture+%E2%86%92+Cloud+%E2%86%92+Security+%E2%86%92+Scale" alt="Engineering Mindset"/>
-
-<br><br>
-
-```text
-                  CODE
-                    │
-                    ▼
-              ARCHITECTURE
-                    │
-                    ▼
-                 CLOUD
-                    │
-                    ▼
-                SECURITY
-                    │
-                    ▼
-                  SCALE
-```
-
-</div>
-
----
-
-<!-- ========================================================= -->
-
-<!--                     GITHUB ACTIVITY                       -->
-
-<!-- ========================================================= -->
-
-<h2 align="center">◈ GITHUB ACTIVITY</h2>
-
-<div align="center">
+## `08` — GITHUB ACTIVITY
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=JainMehul05&bg_color=0F172A&color=38BDF8&line=7C3AED&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" width="96%" alt="GitHub Activity Graph"/>
 
@@ -659,39 +539,27 @@ I'm especially interested in understanding **what happens behind the code** and 
 
 ---
 
-<!-- ========================================================= -->
-
-<!--                     GITHUB STATS                          -->
-
-<!-- ========================================================= -->
-
-<h2 align="center">◈ GITHUB ANALYTICS</h2>
-
 <div align="center">
 
+## `09` — GITHUB ANALYTICS
+
 <a href="https://github.com/JainMehul05">
-<img src="https://github-readme-stats.vercel.app/api?username=JainMehul05&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&bg_color=0F172A&title_color=38BDF8&icon_color=7C3AED&text_color=CBD5E1&custom_title=Mehul%20Jain's%20GitHub%20Stats" height="180" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=JainMehul05&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&bg_color=0F172A&title_color=38BDF8&icon_color=7C3AED&text_color=CBD5E1&custom_title=GitHub%20Stats" height="180" alt="GitHub Stats"/>
 </a>
 
   
 
 <a href="https://github.com/JainMehul05">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JainMehul05&layout=compact&hide_border=true&langs_count=8&bg_color=0F172A&title_color=38BDF8&text_color=CBD5E1&custom_title=Most%20Used%20Languages" height="180" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JainMehul05&layout=compact&hide_border=true&langs_count=8&bg_color=0F172A&title_color=38BDF8&text_color=CBD5E1&custom_title=Top%20Languages" height="180" alt="Top Languages"/>
 </a>
 
 </div>
 
 ---
 
-<!-- ========================================================= -->
-
-<!--                  CONTRIBUTION STREAK                      -->
-
-<!-- ========================================================= -->
-
-<h2 align="center">◈ CONTRIBUTION STREAK</h2>
-
 <div align="center">
+
+## `10` — CONTRIBUTION STREAK
 
 <img src="https://streak-stats.demolab.com?user=JainMehul05&theme=dark&hide_border=true&background=0F172A&ring=38BDF8&fire=7C3AED&currStreakLabel=38BDF8&sideLabels=CBD5E1&dates=94A3B8" width="75%" alt="GitHub Contribution Streak"/>
 
@@ -699,15 +567,9 @@ I'm especially interested in understanding **what happens behind the code** and 
 
 ---
 
-<!-- ========================================================= -->
-
-<!--                     TROPHIES                              -->
-
-<!-- ========================================================= -->
-
-<h2 align="center">◈ GITHUB TROPHIES</h2>
-
 <div align="center">
+
+## `11` — GITHUB TROPHIES
 
 <img src="https://github-profile-trophy.vercel.app/?username=JainMehul05&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7" width="95%" alt="GitHub Trophies"/>
 
@@ -715,74 +577,23 @@ I'm especially interested in understanding **what happens behind the code** and 
 
 ---
 
-<!-- ========================================================= -->
-
-<!--                   TECHNOLOGY FLOW                         -->
-
-<!-- ========================================================= -->
-
-<h2 align="center">◈ THE BIGGER PICTURE</h2>
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2400&pause=900&color=38BDF8&center=true&vCenter=true&repeat=true&width=900&height=40&lines=Frontend+%2B+Backend;Backend+%2B+Database;Database+%2B+Cloud;Cloud+%2B+DevOps;DevOps+%2B+Security;Security+%2B+AI;AI+%2B+Agents" alt="Technology Flow"/>
+## `12` — ENGINEERING MINDSET
+
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=19&duration=3000&pause=1200&color=8B5CF6&center=true&vCenter=true&width=850&height=45&lines=I+don't+just+want+to+write+code.;I+want+to+understand+the+system+behind+it.;Code+%E2%86%92+Architecture+%E2%86%92+Cloud+%E2%86%92+Security+%E2%86%92+Scale" alt="Engineering Mindset"/>
 
 <br>
 
-```text
- ┌─────────────┐
- │  FRONTEND   │
- └──────┬──────┘
-        │
-        ▼
- ┌─────────────┐
- │   BACKEND   │
- └──────┬──────┘
-        │
-        ▼
- ┌─────────────┐
- │  DATABASE   │
- └──────┬──────┘
-        │
-        ▼
- ┌─────────────┐
- │    CLOUD    │
- └──────┬──────┘
-        │
-        ▼
- ┌─────────────┐
- │   DEVOPS    │
- └──────┬──────┘
-        │
-        ▼
- ┌─────────────┐
- │  SECURITY   │
- └──────┬──────┘
-        │
-        ▼
- ┌─────────────┐
- │    GENAI    │
- └──────┬──────┘
-        │
-        ▼
- ┌─────────────┐
- │ AGENTIC AI  │
- └─────────────┘
-```
+`CODE` → `ARCHITECTURE` → `CLOUD` → `SECURITY` → `SCALE`
 
 </div>
 
 ---
 
-<!-- ========================================================= -->
-
-<!--                     CONNECT                               -->
-
-<!-- ========================================================= -->
-
-<h2 align="center">◈ LET'S CONNECT</h2>
-
 <div align="center">
+
+## `13` — CONNECT WITH ME
 
 <a href="https://github.com/JainMehul05">
 <img src="https://img.shields.io/badge/GitHub-JainMehul05-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
@@ -798,22 +609,10 @@ I'm especially interested in understanding **what happens behind the code** and 
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=3200&pause=1100&color=38BDF8&center=true&vCenter=true&repeat=true&width=700&height=35&lines=Build+something+useful.;Learn+something+new.;Keep+shipping." alt="Closing Animation"/>
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=17&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&height=35&lines=Build+something+useful.;Learn+something+new.;Keep+shipping." alt="Closing Animation"/>
 
-</div>
+<br><br>
 
----
-
-<!-- ========================================================= -->
-
-<!--                     FOOTER                                -->
-
-<!-- ========================================================= -->
-
-<div align="center">
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,40:0369A1,70:0F172A,100:020617&height=180&section=footer&text=Thanks%20for%20visiting!&fontSize=26&fontColor=FFFFFF&animation=twinkling" width="100%" alt="Animated Footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,45:0369A1,75:0F172A,100:020617&height=140&section=footer&animation=twinkling" width="100%" alt="Animated Footer"/>
 
 </div>
