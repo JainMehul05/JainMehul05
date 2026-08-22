@@ -1,55 +1,27 @@
-<div align="center">
+# 💫 About Me:
+🔭 I’m currently working on Full Stack applications, cloud deployments, and AI-powered projects<br>👯 I’m looking to collaborate on Full Stack, Cloud, DevOps, and Agentic AI projects<br>🤝 I’m looking for help with building scalable cloud-native applications and improving system design<br>🌱 I’m currently learning AWS, Docker, Kubernetes, CI/CD, System Design, GenAI & Agentic AI<br>💬 Ask me about JavaScript, Node.js, React, REST APIs, Docker, AWS, Git & GitHub<br>⚡ Fun fact I enjoy turning ideas into working projects and breaking things just to understand how they work 😄
 
-# 👋 Hey, I'm Mehul Jain
 
-### 💻 Full Stack Developer • ☁️ Cloud & DevOps Enthusiast • 🤖 AI Explorer
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/jainmehul05) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mjain3_be24@thapar.edu) 
 
-<a href="https://github.com/JainMehul05">
-  <img src="https://komarev.com/ghpvc/?username=JainMehul05&label=Profile%20Views&color=0e75b6&style=flat" />
-</a>
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=for-the-badge&logo=radix-ui&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=JainMehul05&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=JainMehul05&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=JainMehul05&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<br><br>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=JainMehul05&theme=vue-dark&no-frame=false&no-bg=false&margin-w=4)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+Full+Stack+Applications;Exploring+Cloud+%26+DevOps;Learning+GenAI+%26+Agentic+AI;Turning+Ideas+Into+Real+Projects;Always+Learning.+Always+Building." />
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
-</div>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=JainMehul05&limit=5&theme=algolia&combine_all_yearly_contributions=true)
 
 ---
+[![](https://komarev.com/ghpvc/?username=JainMehul05&icon=8&color=8)](https://visitcount.itsvg.in)
 
-## 🧑‍💻 About Me
-
-<table>
-<tr>
-<td width="55%">
-
-I'm a **Computer Engineering student** passionate about building scalable software and understanding how systems work behind the scenes.
-
-🚀 I enjoy building **full-stack applications** from frontend to backend and deployment.
-
-☁️ Currently diving deeper into **AWS, Docker, Kubernetes, CI/CD and Cloud Architecture**.
-
-🤖 Exploring **Generative AI, Agentic AI and AI-powered applications**.
-
-🧠 Currently improving my **Data Structures, Algorithms and System Design** skills.
-
-🔐 Interested in building applications that are not only functional, but also **secure, scalable and production-ready**.
-
-💡 My goal is to become a developer who can take an idea from **concept → code → cloud → production**.
-
-</td>
-
-<td width="45%">
-
-```text
-┌─────────────────────────────┐
-│       MEHUL JAIN            │
-├─────────────────────────────┤
-│                             │
-│  💻 Full Stack              │
-│  ☁️  Cloud & DevOps         │
-│  🤖 GenAI & Agents          │
-│  🧠 DSA & System Design     │
-│                             │
-│  BUILD → DEPLOY → SCALE     │
-│                             │
-└─────────────────────────────┘
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
