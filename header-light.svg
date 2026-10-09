@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="270" viewBox="0 0 1000 270">
+<defs><pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#d9cfb8" stroke-width="1"/></pattern></defs>
+<rect width="1000" height="270" rx="18" fill="#fbf5e7"/><rect width="1000" height="270" rx="18" fill="url(#grid)"/>
+<rect x="18" y="18" width="964" height="234" rx="12" fill="none" stroke="#27251f" stroke-width="2"/>
+<rect x="34" y="34" width="10" height="10" fill="#e3bd50"/><text x="62" y="44" font-family="monospace" font-size="12" fill="#5c574e" letter-spacing="3">INDEPENDENT BUILDER / INDIA</text>
+<text x="50" y="125" font-family="Arial,Helvetica,sans-serif" font-size="64" font-weight="800" fill="#27251f" letter-spacing="-2">MEHUL JAIN</text>
+<rect x="50" y="145" width="478" height="42" rx="4" fill="#e8cd78" stroke="#27251f" stroke-width="2"/>
+<text x="68" y="172" font-family="Arial,Helvetica,sans-serif" font-size="19" font-weight="700" fill="#27251f">FULL STACK · AI · CLOUD</text>
+<text x="52" y="218" font-family="Arial,Helvetica,sans-serif" font-size="15" fill="#5c574e">Thoughtful products. Useful systems. Continuous iteration.</text>
+<g transform="translate(770 88)"><rect x="0" y="0" width="132" height="132" rx="10" fill="#f2e4c1" stroke="#27251f" stroke-width="3"/><circle cx="66" cy="66" r="43" fill="#e8cd78" stroke="#27251f" stroke-width="3"/><path d="M66 23V109M23 66H109M36 36L96 96M96 36L36 96" stroke="#27251f" stroke-width="2" opacity=".65"/><circle cx="66" cy="66" r="11" fill="#27251f"/><path d="M66 42L74 63L66 58L58 63Z" fill="#fffaf0"/></g>
+<path d="M930 38h28v28" fill="none" stroke="#c59b2a" stroke-width="5"/><path d="M42 232h24v-8" fill="none" stroke="#c59b2a" stroke-width="5"/>
+</svg>

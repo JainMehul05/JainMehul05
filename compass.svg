@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="230" viewBox="0 0 420 230">
+<rect x="2" y="2" width="416" height="226" rx="10" fill="#fbf5e7" stroke="#27251f" stroke-width="3"/>
+<path d="M210 25L330 115L210 205L90 115Z" fill="#f0e1b6" stroke="#27251f" stroke-width="2"/>
+<circle cx="210" cy="115" r="64" fill="#e8cd78" stroke="#27251f" stroke-width="3"/>
+<path d="M210 62L229 112L210 101L191 112Z" fill="#27251f"/><path d="M210 168L191 118L210 129L229 118Z" fill="#fffaf0" stroke="#27251f" stroke-width="1.5"/>
+<circle cx="210" cy="115" r="8" fill="#27251f"/>
+<text x="210" y="18" text-anchor="middle" font-family="monospace" font-size="11" fill="#27251f">BUILD</text>
+<text x="210" y="220" text-anchor="middle" font-family="monospace" font-size="11" fill="#27251f">ITERATE</text>
+<text x="42" y="119" text-anchor="middle" font-family="monospace" font-size="11" fill="#27251f">AI</text>
+<text x="378" y="119" text-anchor="middle" font-family="monospace" font-size="11" fill="#27251f">CLOUD</text>
+</svg>
