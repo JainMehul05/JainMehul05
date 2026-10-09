@@ -4,7 +4,7 @@
     pip install fonttools
     python3 scripts/render.py
 
-The look follows aahil-khan.xyz: warm paper with a grid, Space Grotesk, a yellow
+The profile uses a warm paper palette, a subtle grid, Space Grotesk, a yellow
 accent used sparingly, and neobrutalist cards (hard border, hard offset shadow).
 Dark mode is the site's Tokyo Night theme.
 
@@ -273,10 +273,7 @@ NOW = [
 
 def hero(theme):
     W, H = 840, 404
-    c = Svg(W, H, theme, "Mehul Jain, Thapar Institute of Engineering & Technology, India. CS engineering student exploring AI retrieval and agent "
-            "systems building useful software end to end. A cat sits on a now.txt window: building AI interviews "
-            "at Oddmind, tinkering with GNOME extensions, chasing OSS contributions, final year at Thapar "
-            "plus an IIT Madras diploma.", still=6)
+    c = Svg(W, H, theme, "Mehul Jain, Computer Science Engineering student at Thapar Institute of Engineering & Technology, Punjab, India. Building VibeStream for AI-powered mood-aware music discovery, developing CloudScale for deployment workflows, and exploring full-stack development, AI, cloud computing, and DevOps.", still=6)
     t = c.t
     c.add(c.paper(2, 2, W - 10, H - 10))
 
@@ -407,15 +404,18 @@ def views_button(theme, views):
 
 
 def render_views():
-    views = json.loads(VIEWS.read_text())["views"]
-    for theme in THEMES:
-        (OUT / f"btn-views-{theme}.svg").write_text(views_button(theme, views))
+    views = json.loads(VIEWS.read_text(encoding="utf-8"))["views"]
 
+    for theme in THEMES:
+        (OUT / f"btn-views-{theme}.svg").write_text(
+            views_button(theme, views),
+            encoding="utf-8",
+        )
 
 def update_views():
     """Read the counter, then redraw only the views pill."""
     state = json.loads(VIEWS.read_text())
-    req = urllib.request.Request(COUNTER, headers={"User-Agent": "aahil-khan-readme"})
+    req = urllib.request.Request(COUNTER, headers={"User-Agent": "JainMehul05-profile"})
     svg = urllib.request.urlopen(req, timeout=20).read().decode()
     total = int(re.findall(r">([\d,]+)</text>", svg)[-1].replace(",", ""))
     if total > state["views"]:
@@ -463,9 +463,7 @@ ROW_Y = (40, 62, 84)
 
 
 def sop_opera(theme):
-    c = Svg(840, 124, theme, "02 SOP Opera: agentic industrial safety intelligence. Winner, Economic Times "
-            "AI Hackathon 2.0. A sensor trace crosses its limit, an agent acts, and the decision joins a "
-            "tamper-evident hash chain.", still=5)
+    c = Svg(840, 124, theme, "02 CloudScale: a deployment management workspace for organizing build, test, and deployment workflows.", still=5)
     work_row(c, "02", "CloudScale", "Deployment management workspace", "CLOUD / DEVOPS",
              ["FULL STACK", "CONTAINERS", "DEPLOYMENT"])
     t = c.t
@@ -482,7 +480,7 @@ def sop_opera(theme):
     runs = []
     for _ in range(reps):
         runs += [(unit[:spike_at], "muted"), ("/\\", t["signal"]), (unit[spike_at + 2:], "muted")]
-    c.add(c.text(TX, ROW_Y[0], "vib", size=FS, mono=True, fill="subtle"))
+    c.add(c.text(TX, ROW_Y[0], "dep", size=FS, mono=True, fill="subtle"))
     c.add(f'<g clip-path="url(#{clip})"><g style="animation:scroll {period:.2f}s steps({U}) infinite">'
           + c.rich(TX + col0 * CW, ROW_Y[0], runs, size=FS) + "</g></g>")
     m = col0 + 24
@@ -491,7 +489,7 @@ def sop_opera(theme):
     hit = ((col0 + spike_at - m) % U) * step
     laps = 4
     long = period * laps
-    acts = ["isolate pump P-12", "notify shift lead", "lock valve V-3", "log and close"]
+    acts = ["build container image", "run test suite", "deploy service", "check health"]
     blocks = ["a3f9", "9c1e", "e07b", "41d2"]
     for k in range(laps):
         at = hit + k * period
@@ -505,12 +503,11 @@ def sop_opera(theme):
 
 
 def konta(theme):
-    c = Svg(840, 124, theme, "03 Konta: local-first, context-aware browsing. Winner, Samsung PRISM Web Agent "
-            "Hackathon. Open tabs become a graph you can search in plain words.", still=6.5)
+    c = Svg(840, 124, theme, "03 FlowSync: a workflow organization project for keeping development tasks and project activity easier to follow.", still=6.5)
     work_row(c, "03", "FlowSync", "Workflow organisation concept", "PRODUCT / FULL STACK",
              ["WORKFLOW DESIGN", "APPLICATION DEVELOPMENT"])
     P, end = 9.0, 8.5
-    tabs = [(0, "[github]"), (9, "[arxiv]"), (17, "[docs]"), (24, "[yt]")]
+    tabs = [(0, "[tasks]"), (9, "[build]"), (17, "[docs]"), (24, "[notes]")]
     for k, (col, tab) in enumerate(tabs):
         c.add(c.text(TX + col * CW, ROW_Y[0], tab, size=FS, mono=True, fill="muted",
                      attrs=c.win([(0.2 + k * 0.3, end)], P, True)))
@@ -522,10 +519,10 @@ def konta(theme):
     for n in nodes:
         graph[n] = "o"
     c.add(c.text(TX, ROW_Y[1], "".join(graph), size=FS, mono=True, fill="subtle", attrs=c.win([(1.5, end)], P, True)))
-    q, done = typed(c, TX, ROW_Y[2], '? "that rag paper"', 2.3, P, cps=16, end=end, size=FS)
+    q, done = typed(c, TX, ROW_Y[2], '? "show active tasks"', 2.3, P, cps=16, end=end, size=FS)
     c.add(q)
     lit = c.win([(done + 0.3, end)], P, True)
-    c.add(c.rich(TX + 18 * CW, ROW_Y[2], [(" -> ", "subtle"), ("arxiv", "ink")], size=FS, attrs=lit))
+    c.add(c.rich(TX + 18 * CW, ROW_Y[2], [(" -> ", "subtle"), ("in progress", "ink")], size=FS, attrs=lit))
     # The tab and node it came from light up, covering the plain ones.
     for col, row, glyph in [(tabs[1][0], 0, tabs[1][1]), (nodes[1], 1, "@")]:
         y = ROW_Y[row]
@@ -535,15 +532,13 @@ def konta(theme):
 
 
 def flowsync(theme):
-    c = Svg(840, 124, theme, "04 FlowSync AI: project memory for coding agents, over MCP. Innovation Award, "
-            "Agentic AI Hackathon, Ulster University. Pushes stream into a project brain an agent can ask later.",
-            still=7)
+    c = Svg(840, 124, theme, "04 Engineering Lab: ongoing practice in full-stack development, AI, cloud computing, and software engineering.", still=7)
     work_row(c, "04", "Engineering Lab", "Full-stack, AI, and cloud engineering", "CURRENT LEARNING",
              ["REACT", "NODE.JS", "AWS", "DOCKER"])
     P, end = 10.0, 9.5
-    s, t1 = typed(c, TX, ROW_Y[0], "$ git push origin main", 0.2, P, cps=20, end=end, size=FS)
+    s, t1 = typed(c, TX, ROW_Y[0], "$ npm run build", 0.2, P, cps=20, end=end, size=FS)
     c.add(s)
-    c.add(c.text(TX, ROW_Y[1], "  --------> [brain", size=FS, mono=True, fill="subtle", attrs=c.win([(t1 + 0.2, end)], P, True)))
+    c.add(c.text(TX, ROW_Y[1], "  --------> [build", size=FS, mono=True, fill="subtle", attrs=c.win([(t1 + 0.2, end)], P, True)))
     t2 = t1 + 0.4
     for k in range(3):
         for j in range(8):
@@ -552,28 +547,26 @@ def flowsync(theme):
     fills = ["       ]", " #     ]", " ###   ]", " ##### ]"]
     spans = [(t1 + 0.2, t2 + 0.4), (t2 + 0.4, t2 + 0.9), (t2 + 0.9, t2 + 1.4), (t2 + 1.4, end)]
     c.add(frames(c, TX + 18 * CW, ROW_Y[1], fills, spans, P, size=FS, fill="muted"))
-    q, t3 = typed(c, TX, ROW_Y[2], "? why qdrant", t2 + 1.9, P, cps=16, end=end, size=FS)
+    q, t3 = typed(c, TX, ROW_Y[2], "? are tests passing", t2 + 1.9, P, cps=16, end=end, size=FS)
     c.add(q)
-    c.add(c.rich(TX + 12 * CW, ROW_Y[2], [(" -> ", "subtle"), ("see 3f2a", "ink")], size=FS,
+    c.add(c.rich(TX + 12 * CW, ROW_Y[2], [(" -> ", "subtle"), ("all passed", "ink")], size=FS,
                  attrs=c.win([(t3 + 0.3, end)], P, True)))
     return c.render()
 
 
 def holt(theme):
-    c = Svg(840, 124, theme, "01 holt: finds open-source projects that will actually merge your first PR. "
-            "Winner, micro1 Frontier Engineering Challenge. It reads a repository's pull-request history "
-            "and returns a verdict.", still=7)
+    c = Svg(840, 124, theme, "01 VibeStream: AI-powered mood-aware music discovery using signals and recommendation logic to help users find music that fits their mood.", still=7)
     work_row(c, "01", "VibeStream", "Mood-aware music discovery",
              "AI / RECOMMENDATION", ["REACT", "DJANGO", "MONGODB", "PYTHON"])
     P, end = 10.0, 9.5
-    s, t1 = typed(c, TX, ROW_Y[0], "$ holt analyze owner/repo", 0.2, P, cps=18, end=end, size=FS)
+    s, t1 = typed(c, TX, ROW_Y[0], "$ mood recommend", 0.2, P, cps=18, end=end, size=FS)
     c.add(s)
-    c.add(c.text(TX, ROW_Y[1], "reading PRs", size=FS, mono=True, fill="subtle", attrs=c.win([(t1 + 0.2, end)], P, True)))
+    c.add(c.text(TX, ROW_Y[1], "reading mood signals", size=FS, mono=True, fill="subtle", attrs=c.win([(t1 + 0.2, end)], P, True)))
     bars = ["[      ]", "[##    ]", "[####  ]", "[######]"]
     spans = [(t1 + 0.2 + k * 0.5, t1 + 0.7 + k * 0.5 if k < 3 else end) for k in range(4)]
     c.add(frames(c, TX + 12 * CW, ROW_Y[1], bars, spans, P, size=FS, fill="muted"))
     t2 = t1 + 2.4
-    c.add(c.rich(TX, ROW_Y[2], [("verdict ", "subtle"), ("Worth your time", c.t["signal"])], size=FS,
+    c.add(c.rich(TX, ROW_Y[2], [("match ", "subtle"), ("Fits your mood", c.t["signal"])], size=FS,
                  attrs=c.win([(t2, end)], P, True)))
     return c.render()
 
@@ -735,15 +728,29 @@ PIECES = {
 
 def main():
     OUT.mkdir(exist_ok=True)
+
     for old in OUT.glob("*.svg"):
         old.unlink()
+
     for theme in THEMES:
         for name, fn in PIECES.items():
-            (OUT / f"{name}-{theme}.svg").write_text(fn(theme))
+            (OUT / f"{name}-{theme}.svg").write_text(
+                fn(theme),
+                encoding="utf-8",
+            )
+
         for name, (kind, label) in BUTTONS.items():
-            (OUT / f"btn-{name}-{theme}.svg").write_text(button(theme, kind, label))
+            (OUT / f"btn-{name}-{theme}.svg").write_text(
+                button(theme, kind, label),
+                encoding="utf-8",
+            )
+
     render_views()
-    sizes = {p.name: p.stat().st_size // 1024 for p in sorted(OUT.glob("*.svg"))}
+
+    sizes = {
+        p.name: p.stat().st_size // 1024
+        for p in sorted(OUT.glob("*.svg"))
+    }
     print("  ".join(f"{k} {v}K" for k, v in sizes.items()))
 
 
