@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="192" height="56" viewBox="0 0 192 56" role="img" aria-labelledby="title">
-<title id="title">Profile views</title>
-<defs>
-  <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0V32H0" fill="none" stroke="rgba(192,202,245,0.075)" stroke-width="1"/></pattern>
-  <linearGradient id="paper" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1A1B26"/><stop offset="1" stop-color="#1F2335"/></linearGradient>
-</defs>
-<rect x="7" y="9" width="180" height="43" rx="21" fill="#C0CAF5"/><rect x="2" y="4" width="180" height="43" rx="21" fill="#16161E" stroke="#C0CAF5" stroke-width="2"/><circle cx="23" cy="25.5" r="5" fill="#E0AF68"/><text x="37" y="31" font-family="monospace" font-size="12" font-weight="600" fill="ink" letter-spacing=".7">PROFILE VIEWS</text></svg>
