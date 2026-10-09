@@ -260,20 +260,28 @@ HERO_EYES = {"open": " ( o.o )", "blink": " ( -.- )", "happy": " ( ^.^ )"}
 HERO_BODY = ["  > ^ <", ' (")_(")']
 
 
+
 NOW = [
     ("building", "VibeStream"),
     ("", "AI music discovery"),
     ("building", "CloudScale"),
     ("building", "FlowSync"),
+    ("building", "NimbusVault"),
     ("studying", "Computer Science"),
+    ("", "Cloud & DevOps"),
     ("", "Engineering at TIET"),
-    ("", "and building projects"),
 ]
+
 
 
 def hero(theme):
     W, H = 840, 404
-    c = Svg(W, H, theme, "Mehul Jain, Computer Science Engineering student at Thapar Institute of Engineering & Technology, Punjab, India. Building VibeStream for AI-powered mood-aware music discovery, developing CloudScale for deployment workflows, and exploring full-stack development, AI, cloud computing, and DevOps.", still=6)
+    c = Svg(
+        W, H, theme,
+        "Mehul Jain, Computer Science Engineering student at Thapar Institute of Engineering & Technology, Punjab, India. Building VibeStream, CloudScale, FlowSync, and NimbusVault while developing full-stack, AI/ML, cloud, and DevOps skills.",
+        still=6,
+    )
+
     t = c.t
     c.add(c.paper(2, 2, W - 10, H - 10))
 
@@ -291,7 +299,7 @@ def hero(theme):
     # Headline: the bold phrase lands word by word, then gets its highlighter.
     c.add(c.text(x0, 294, "CS engineering student exploring", size=22))
     wx = x0
-    for i, word in enumerate("full-stack, AI, and cloud".split()):
+    for i, word in enumerate("full-stack, AI, cloud & DevOps".split()):
         c.add(c.text(wx, 324, word, size=22, weight=700, attrs=c.win([(0.6 + i * 0.14, None)], 3)))
         wx += advance(("G", 700), word + " ", 22)
     c.add(c.text(x0, 354, "building useful software end to end.", size=22))
@@ -532,9 +540,18 @@ def konta(theme):
 
 
 def flowsync(theme):
-    c = Svg(840, 124, theme, "04 Engineering Lab: ongoing practice in full-stack development, AI, cloud computing, and software engineering.", still=7)
-    work_row(c, "04", "Engineering Lab", "Full-stack, AI, and cloud engineering", "CURRENT LEARNING",
-             ["REACT", "NODE.JS", "AWS", "DOCKER"])
+    c = Svg(
+        840, 124, theme,
+        "04 NimbusVault: cloud storage and file management project.",
+        still=7,
+    )
+    work_row(
+        c, "04", "NimbusVault",
+        "Cloud storage and file management",
+        "CLOUD / DEVOPS",
+        ["AWS", "DOCKER", "BACKEND", "CI/CD"],
+    )
+
     P, end = 10.0, 9.5
     s, t1 = typed(c, TX, ROW_Y[0], "$ npm run build", 0.2, P, cps=20, end=end, size=FS)
     c.add(s)
@@ -574,17 +591,49 @@ def holt(theme):
 
 # ------------------------------------------------------------------ stack
 
-STACK = [
-    ("Languages", [("Python", "python-original"), ("TypeScript", "Typescript"), ("JavaScript", "javascript-original")]),
-    ("Frameworks", [("React", "react-original"), ("Next.js", "nextjs-original"), ("Node.js", "nodejs-original"),
-                    ("Express", "express-original"), ("FastAPI", "FastAPI"), ("Flask", "flask-original")]),
-    ("Databases", [("PostgreSQL", "postgresql-original"), ("MySQL", "mysql-original"), ("Redis", "redis-original"),
-                   ("DynamoDB", "dynamodb-original"), ("Prisma", "prisma-original")]),
-    ("Cloud & DevOps", [("AWS", "amazonwebservices-original-wordmark"), ("Docker", "docker-original"),
-                        ("GitHub Actions", "githubactions-original"), ("Nginx", "nginx"), ("Git", "git-original")]),
-    ("AI / ML", [("RAG", None), ("LangGraph", None), ("Vector search", None), ("LLMs", None), ("Multi-agent systems", None)]),
-    ("Testing", [("Jest", "jest-plain"), ("Vitest", "Vitest")]),
+
+STACK = [    ("Languages", [
+        ("Python", "python-original"),
+        ("TypeScript", "Typescript"),
+        ("JavaScript", "javascript-original"),
+    ]),
+    ("Frontend", [
+        ("React", "react-original"),
+        ("Next.js", "nextjs-original"),
+        ("Tailwind CSS", None),
+    ]),
+    ("Backend & APIs", [
+        ("Node.js", "nodejs-original"),
+        ("Express", "express-original"),
+        ("Django REST", None),
+        ("FastAPI", "FastAPI"),
+    ]),
+    ("Databases", [
+        ("MongoDB", None),
+        ("PostgreSQL", "postgresql-original"),
+        ("Redis", "redis-original"),
+        ("Prisma", "prisma-original"),
+    ]),
+    ("Cloud & DevOps", [
+        ("AWS", "amazonwebservices-original-wordmark"),
+        ("Docker", "docker-original"),
+        ("GitHub Actions", "githubactions-original"),
+        ("Terraform", None),
+        ("Git", "git-original"),
+    ]),
+    ("AI / ML", [
+        ("BERT", None),
+        ("scikit-learn", None),
+        ("TensorFlow", None),
+        ("LLMs", None),
+    ]),
+    ("Testing", [
+        ("Jest", "jest-plain"),
+        ("Vitest", "Vitest"),
+        ("Pytest", None),
+    ]),
 ]
+
 # Marks too dark to read on the dark theme; there they are drawn in the ink colour.
 DARK_MARKS = {"express-original", "amazonwebservices-original-wordmark", "prisma-original",
               "flask-original", "mysql-original"}
